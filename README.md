@@ -10,6 +10,13 @@
 1. 启动[wx-api](https://github.com/niefy/wx-api)项目,具体流程参考对应项目介绍
 2. 安装依赖
 
+
+set SASS_BINARY_PATH=D:\software\sass\win32-x64-72_binding.node
+
+npm install node-nass
+
+npm install 
+npm run serve
 ``` bash
 npm install
 ```
